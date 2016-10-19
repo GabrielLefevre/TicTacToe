@@ -1,0 +1,15 @@
+#board {
+    margin-left:45%;
+    width: 220px;
+}
+h2,h3{
+    text-align: center;
+}
+
+.board_cell {
+    float: left;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border: 1px solid;
+}
